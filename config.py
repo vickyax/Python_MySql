@@ -1,4 +1,4 @@
 Host="localhost"
-User="yourusername"
+User="root"
 Password="yourpassword"
-Database="mydatabase"
+Database="pydb"
