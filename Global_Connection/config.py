@@ -1,4 +1,4 @@
 Host="localhost"
 User="root"
-Password="mastervicky"
+Password="yourpassword"
 Database="pydb"
