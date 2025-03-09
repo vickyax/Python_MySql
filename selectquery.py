@@ -13,3 +13,5 @@ query = mydb.cursor()
 query.execute("SELECT * FROM customers")
 
 print(query.fetchall())
+
+mydb.close()

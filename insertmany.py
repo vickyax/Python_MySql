@@ -32,4 +32,6 @@ query.executemany(sql, val)
 mydb.commit()
 
 print(query.rowcount) 
-print(query.fetchall()) 
+print(query.fetchall())
+
+mydb.close()

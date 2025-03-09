@@ -9,3 +9,5 @@ mydb = mysql.connector.connect(
 query = mydb.cursor()
 
 query.execute("CREATE DATABASE pydb")
+
+mydb.close()

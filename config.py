@@ -1,4 +1,4 @@
-Host="localhost",
-User="yourusername",
-Password="yourpassword",
+Host="localhost"
+User="yourusername"
+Password="yourpassword"
 Database="mydatabase"

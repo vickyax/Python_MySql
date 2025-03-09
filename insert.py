@@ -15,3 +15,5 @@ query.execute(sql,val)
 mydb.commit()
 
 print(query.rowcount,"records")
+
+mydb.close()

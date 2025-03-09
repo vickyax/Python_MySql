@@ -13,3 +13,5 @@ query = mydb.cursor()
 sql = "CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255))"
 
 query.execute(sql)
+
+mydb.close()
